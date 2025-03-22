@@ -1,0 +1,356 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Downloads\\Angular\\Angular-main\\Angular\\Task3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA2F9A4-D004-4EE5-AB2B-982C359A8E78}|task3.client\\task3.client.esproj|c:\\users\\orange\\downloads\\angular\\angular-main\\angular\\task3\\task3.client\\src\\app\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BA2F9A4-D004-4EE5-AB2B-982C359A8E78}|task3.client\\task3.client.esproj|solutionrelative:task3.client\\src\\app\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA2F9A4-D004-4EE5-AB2B-982C359A8E78}|task3.client\\task3.client.esproj|c:\\users\\orange\\downloads\\angular\\angular-main\\angular\\task3\\task3.client\\src\\app\\home\\home.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8BA2F9A4-D004-4EE5-AB2B-982C359A8E78}|task3.client\\task3.client.esproj|solutionrelative:task3.client\\src\\app\\home\\home.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA2F9A4-D004-4EE5-AB2B-982C359A8E78}|task3.client\\task3.client.esproj|c:\\users\\orange\\downloads\\angular\\angular-main\\angular\\task3\\task3.client\\src\\app\\sign-in\\sign-in.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8BA2F9A4-D004-4EE5-AB2B-982C359A8E78}|task3.client\\task3.client.esproj|solutionrelative:task3.client\\src\\app\\sign-in\\sign-in.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA2F9A4-D004-4EE5-AB2B-982C359A8E78}|task3.client\\task3.client.esproj|c:\\users\\orange\\downloads\\angular\\angular-main\\angular\\task3\\task3.client\\src\\app\\sign-in\\sign-in.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BA2F9A4-D004-4EE5-AB2B-982C359A8E78}|task3.client\\task3.client.esproj|solutionrelative:task3.client\\src\\app\\sign-in\\sign-in.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA2F9A4-D004-4EE5-AB2B-982C359A8E78}|task3.client\\task3.client.esproj|c:\\users\\orange\\downloads\\angular\\angular-main\\angular\\task3\\task3.client\\src\\app\\sign-up\\sign-up.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8BA2F9A4-D004-4EE5-AB2B-982C359A8E78}|task3.client\\task3.client.esproj|solutionrelative:task3.client\\src\\app\\sign-up\\sign-up.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA2F9A4-D004-4EE5-AB2B-982C359A8E78}|task3.client\\task3.client.esproj|c:\\users\\orange\\downloads\\angular\\angular-main\\angular\\task3\\task3.client\\src\\app\\sign-up\\sign-up.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BA2F9A4-D004-4EE5-AB2B-982C359A8E78}|task3.client\\task3.client.esproj|solutionrelative:task3.client\\src\\app\\sign-up\\sign-up.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA2F9A4-D004-4EE5-AB2B-982C359A8E78}|task3.client\\task3.client.esproj|c:\\users\\orange\\downloads\\angular\\angular-main\\angular\\task3\\task3.client\\src\\app\\service\\service.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8BA2F9A4-D004-4EE5-AB2B-982C359A8E78}|task3.client\\task3.client.esproj|solutionrelative:task3.client\\src\\app\\service\\service.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA2F9A4-D004-4EE5-AB2B-982C359A8E78}|task3.client\\task3.client.esproj|c:\\users\\orange\\downloads\\angular\\angular-main\\angular\\task3\\task3.client\\src\\app\\sign-in\\sign-in.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8BA2F9A4-D004-4EE5-AB2B-982C359A8E78}|task3.client\\task3.client.esproj|solutionrelative:task3.client\\src\\app\\sign-in\\sign-in.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA2F9A4-D004-4EE5-AB2B-982C359A8E78}|task3.client\\task3.client.esproj|c:\\users\\orange\\downloads\\angular\\angular-main\\angular\\task3\\task3.client\\src\\app\\sign-in\\sign-in.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8BA2F9A4-D004-4EE5-AB2B-982C359A8E78}|task3.client\\task3.client.esproj|solutionrelative:task3.client\\src\\app\\sign-in\\sign-in.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA2F9A4-D004-4EE5-AB2B-982C359A8E78}|task3.client\\task3.client.esproj|c:\\users\\orange\\downloads\\angular\\angular-main\\angular\\task3\\task3.client\\src\\app\\sign-up\\sign-up.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8BA2F9A4-D004-4EE5-AB2B-982C359A8E78}|task3.client\\task3.client.esproj|solutionrelative:task3.client\\src\\app\\sign-up\\sign-up.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA2F9A4-D004-4EE5-AB2B-982C359A8E78}|task3.client\\task3.client.esproj|c:\\users\\orange\\downloads\\angular\\angular-main\\angular\\task3\\task3.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8BA2F9A4-D004-4EE5-AB2B-982C359A8E78}|task3.client\\task3.client.esproj|solutionrelative:task3.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA2F9A4-D004-4EE5-AB2B-982C359A8E78}|task3.client\\task3.client.esproj|c:\\users\\orange\\downloads\\angular\\angular-main\\angular\\task3\\task3.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BA2F9A4-D004-4EE5-AB2B-982C359A8E78}|task3.client\\task3.client.esproj|solutionrelative:task3.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA2F9A4-D004-4EE5-AB2B-982C359A8E78}|task3.client\\task3.client.esproj|c:\\users\\orange\\downloads\\angular\\angular-main\\angular\\task3\\task3.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BA2F9A4-D004-4EE5-AB2B-982C359A8E78}|task3.client\\task3.client.esproj|solutionrelative:task3.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA2F9A4-D004-4EE5-AB2B-982C359A8E78}|task3.client\\task3.client.esproj|c:\\users\\orange\\downloads\\angular\\angular-main\\angular\\task3\\task3.client\\src\\app\\navbar\\navbar.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8BA2F9A4-D004-4EE5-AB2B-982C359A8E78}|task3.client\\task3.client.esproj|solutionrelative:task3.client\\src\\app\\navbar\\navbar.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA2F9A4-D004-4EE5-AB2B-982C359A8E78}|task3.client\\task3.client.esproj|c:\\users\\orange\\downloads\\angular\\angular-main\\angular\\task3\\task3.client\\src\\app\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BA2F9A4-D004-4EE5-AB2B-982C359A8E78}|task3.client\\task3.client.esproj|solutionrelative:task3.client\\src\\app\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA2F9A4-D004-4EE5-AB2B-982C359A8E78}|task3.client\\task3.client.esproj|c:\\users\\orange\\downloads\\angular\\angular-main\\angular\\task3\\task3.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8BA2F9A4-D004-4EE5-AB2B-982C359A8E78}|task3.client\\task3.client.esproj|solutionrelative:task3.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA2F9A4-D004-4EE5-AB2B-982C359A8E78}|task3.client\\task3.client.esproj|c:\\users\\orange\\downloads\\angular\\angular-main\\angular\\task3\\task3.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8BA2F9A4-D004-4EE5-AB2B-982C359A8E78}|task3.client\\task3.client.esproj|solutionrelative:task3.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA2F9A4-D004-4EE5-AB2B-982C359A8E78}|task3.client\\task3.client.esproj|c:\\users\\orange\\downloads\\angular\\angular-main\\angular\\task3\\task3.client\\src\\app\\navbar\\navbar.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8BA2F9A4-D004-4EE5-AB2B-982C359A8E78}|task3.client\\task3.client.esproj|solutionrelative:task3.client\\src\\app\\navbar\\navbar.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA2F9A4-D004-4EE5-AB2B-982C359A8E78}|task3.client\\task3.client.esproj|c:\\users\\orange\\downloads\\angular\\angular-main\\angular\\task3\\task3.client\\src\\app\\navbar\\navbar.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8BA2F9A4-D004-4EE5-AB2B-982C359A8E78}|task3.client\\task3.client.esproj|solutionrelative:task3.client\\src\\app\\navbar\\navbar.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "home.component.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Angular\\Angular-main\\Angular\\Task3\\task3.client\\src\\app\\home\\home.component.css",
+              "RelativeDocumentMoniker": "task3.client\\src\\app\\home\\home.component.css",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Angular\\Angular-main\\Angular\\Task3\\task3.client\\src\\app\\home\\home.component.css",
+              "RelativeToolTip": "task3.client\\src\\app\\home\\home.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-22T17:11:03.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "sign-up.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Angular\\Angular-main\\Angular\\Task3\\task3.client\\src\\app\\sign-up\\sign-up.component.html",
+              "RelativeDocumentMoniker": "task3.client\\src\\app\\sign-up\\sign-up.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Angular\\Angular-main\\Angular\\Task3\\task3.client\\src\\app\\sign-up\\sign-up.component.html",
+              "RelativeToolTip": "task3.client\\src\\app\\sign-up\\sign-up.component.html",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-16T17:04:48.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sign-up.component.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Angular\\Angular-main\\Angular\\Task3\\task3.client\\src\\app\\sign-up\\sign-up.component.css",
+              "RelativeDocumentMoniker": "task3.client\\src\\app\\sign-up\\sign-up.component.css",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Angular\\Angular-main\\Angular\\Task3\\task3.client\\src\\app\\sign-up\\sign-up.component.css",
+              "RelativeToolTip": "task3.client\\src\\app\\sign-up\\sign-up.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-16T17:04:52.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sign-in.component.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Angular\\Angular-main\\Angular\\Task3\\task3.client\\src\\app\\sign-in\\sign-in.component.css",
+              "RelativeDocumentMoniker": "task3.client\\src\\app\\sign-in\\sign-in.component.css",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Angular\\Angular-main\\Angular\\Task3\\task3.client\\src\\app\\sign-in\\sign-in.component.css",
+              "RelativeToolTip": "task3.client\\src\\app\\sign-in\\sign-in.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-16T17:05:56.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "home.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Angular\\Angular-main\\Angular\\Task3\\task3.client\\src\\app\\home\\home.component.html",
+              "RelativeDocumentMoniker": "task3.client\\src\\app\\home\\home.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Angular\\Angular-main\\Angular\\Task3\\task3.client\\src\\app\\home\\home.component.html",
+              "RelativeToolTip": "task3.client\\src\\app\\home\\home.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-16T17:36:27.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "service.service.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Angular\\Angular-main\\Angular\\Task3\\task3.client\\src\\app\\service\\service.service.ts",
+              "RelativeDocumentMoniker": "task3.client\\src\\app\\service\\service.service.ts",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Angular\\Angular-main\\Angular\\Task3\\task3.client\\src\\app\\service\\service.service.ts",
+              "RelativeToolTip": "task3.client\\src\\app\\service\\service.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-16T17:09:40.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sign-in.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Angular\\Angular-main\\Angular\\Task3\\task3.client\\src\\app\\sign-in\\sign-in.component.html",
+              "RelativeDocumentMoniker": "task3.client\\src\\app\\sign-in\\sign-in.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Angular\\Angular-main\\Angular\\Task3\\task3.client\\src\\app\\sign-in\\sign-in.component.html",
+              "RelativeToolTip": "task3.client\\src\\app\\sign-in\\sign-in.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-16T17:05:30.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "sign-in.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Angular\\Angular-main\\Angular\\Task3\\task3.client\\src\\app\\sign-in\\sign-in.component.ts",
+              "RelativeDocumentMoniker": "task3.client\\src\\app\\sign-in\\sign-in.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Angular\\Angular-main\\Angular\\Task3\\task3.client\\src\\app\\sign-in\\sign-in.component.ts",
+              "RelativeToolTip": "task3.client\\src\\app\\sign-in\\sign-in.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-16T17:37:56.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "sign-in.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Angular\\Angular-main\\Angular\\Task3\\task3.client\\src\\app\\sign-in\\sign-in.component.spec.ts",
+              "RelativeDocumentMoniker": "task3.client\\src\\app\\sign-in\\sign-in.component.spec.ts",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Angular\\Angular-main\\Angular\\Task3\\task3.client\\src\\app\\sign-in\\sign-in.component.spec.ts",
+              "RelativeToolTip": "task3.client\\src\\app\\sign-in\\sign-in.component.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-20T12:51:13.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "sign-up.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Angular\\Angular-main\\Angular\\Task3\\task3.client\\src\\app\\sign-up\\sign-up.component.ts",
+              "RelativeDocumentMoniker": "task3.client\\src\\app\\sign-up\\sign-up.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Angular\\Angular-main\\Angular\\Task3\\task3.client\\src\\app\\sign-up\\sign-up.component.ts",
+              "RelativeToolTip": "task3.client\\src\\app\\sign-up\\sign-up.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-16T17:26:45.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Angular\\Angular-main\\Angular\\Task3\\task3.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "task3.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Angular\\Angular-main\\Angular\\Task3\\task3.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "task3.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-16T16:59:02.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Angular\\Angular-main\\Angular\\Task3\\task3.client\\src\\index.html",
+              "RelativeDocumentMoniker": "task3.client\\src\\index.html",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Angular\\Angular-main\\Angular\\Task3\\task3.client\\src\\index.html",
+              "RelativeToolTip": "task3.client\\src\\index.html",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-16T16:59:01.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Angular\\Angular-main\\Angular\\Task3\\task3.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "task3.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Angular\\Angular-main\\Angular\\Task3\\task3.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "task3.client\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-16T17:00:38.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "app.component.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Angular\\Angular-main\\Angular\\Task3\\task3.client\\src\\app\\app.component.css",
+              "RelativeDocumentMoniker": "task3.client\\src\\app\\app.component.css",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Angular\\Angular-main\\Angular\\Task3\\task3.client\\src\\app\\app.component.css",
+              "RelativeToolTip": "task3.client\\src\\app\\app.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-16T17:07:33.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Angular\\Angular-main\\Angular\\Task3\\task3.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "task3.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Angular\\Angular-main\\Angular\\Task3\\task3.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "task3.client\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-16T16:58:28.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "navbar.component.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Angular\\Angular-main\\Angular\\Task3\\task3.client\\src\\app\\navbar\\navbar.component.css",
+              "RelativeDocumentMoniker": "task3.client\\src\\app\\navbar\\navbar.component.css",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Angular\\Angular-main\\Angular\\Task3\\task3.client\\src\\app\\navbar\\navbar.component.css",
+              "RelativeToolTip": "task3.client\\src\\app\\navbar\\navbar.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-19T08:53:38.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "navbar.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Angular\\Angular-main\\Angular\\Task3\\task3.client\\src\\app\\navbar\\navbar.component.html",
+              "RelativeDocumentMoniker": "task3.client\\src\\app\\navbar\\navbar.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Angular\\Angular-main\\Angular\\Task3\\task3.client\\src\\app\\navbar\\navbar.component.html",
+              "RelativeToolTip": "task3.client\\src\\app\\navbar\\navbar.component.html",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-16T17:01:56.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "navbar.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Angular\\Angular-main\\Angular\\Task3\\task3.client\\src\\app\\navbar\\navbar.component.spec.ts",
+              "RelativeDocumentMoniker": "task3.client\\src\\app\\navbar\\navbar.component.spec.ts",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Angular\\Angular-main\\Angular\\Task3\\task3.client\\src\\app\\navbar\\navbar.component.spec.ts",
+              "RelativeToolTip": "task3.client\\src\\app\\navbar\\navbar.component.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-16T17:02:56.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "navbar.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Angular\\Angular-main\\Angular\\Task3\\task3.client\\src\\app\\navbar\\navbar.component.ts",
+              "RelativeDocumentMoniker": "task3.client\\src\\app\\navbar\\navbar.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Angular\\Angular-main\\Angular\\Task3\\task3.client\\src\\app\\navbar\\navbar.component.ts",
+              "RelativeToolTip": "task3.client\\src\\app\\navbar\\navbar.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-16T17:00:05.873Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

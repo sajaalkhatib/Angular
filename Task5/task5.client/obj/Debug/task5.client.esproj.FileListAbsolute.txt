@@ -1,0 +1,4 @@
+C:\Users\Orange\Desktop\Task5\task5.client\obj\Debug\task5.client.esproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\Angular\AngularTasks\Angular\Task5\task5.client\obj\Debug\task5.client.esproj.CoreCompileInputs.cache
+C:\Users\Orange\Downloads\Angular-main (4)\Angular-main\Task5\task5.client\obj\Debug\task5.client.esproj.CoreCompileInputs.cache
+C:\Users\Orange\Downloads\Angular\Angular-main\Angular\Task5\task5.client\obj\Debug\task5.client.esproj.CoreCompileInputs.cache

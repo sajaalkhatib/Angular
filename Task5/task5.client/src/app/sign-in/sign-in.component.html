@@ -1,12 +1,11 @@
-<section class="vh-100 bg-image"
-         style="background-image: url('https://mdbcdn.b-cdn.net/img/Photos/new-templates/search-box/img4.webp');">
-  <div class="mask d-flex align-items-center h-100 gradient-custom-3">
+<section class="vh-100 bg-pink">
+  <div class="mask d-flex align-items-center h-100">
     <div class="container h-100">
       <div class="row d-flex justify-content-center align-items-center h-100">
         <div class="col-12 col-md-9 col-lg-7 col-xl-6">
-          <div class="card" style="border-radius: 15px;">
+          <div class="card" style="border-radius: 15px; background-color: #ff69b4;">
             <div class="card-body p-5">
-              <h2 class="text-uppercase text-center mb-5">Create an account</h2>
+              <h2 class="text-uppercase text-center mb-5 text-white">Create an account</h2>
 
               <form #SignIn="ngForm" (ngSubmit)="isUserRegistered(SignIn.value)">
 
@@ -18,15 +17,12 @@
                   <input type="password" id="form3Example4cg" class="form-control form-control-lg" placeholder="Password" ngModel name="password" />
                 </div>
 
-
                 <div class="d-flex justify-content-center">
-                  <button type="submit" data-mdb-button-init data-mdb-ripple-init class="btn btn-success btn-block btn-lg gradient-custom-4 text-body"> Login </button>
-
+                  <button type="submit" data-mdb-button-init data-mdb-ripple-init class="btn btn-light btn-block btn-lg gradient-custom-4 text-body">Login</button>
                 </div>
 
                 <p class="text-center text-muted mt-5 mb-0">
-                  Don't have an account? <a href="/SignUp"
-                                            class="fw-bold text-body"><u>Register</u></a>
+                  Don't have an account? <a href="/SignUp" class="fw-bold text-white"><u>Register</u></a>
                 </p>
 
               </form>
