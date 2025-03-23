@@ -1,0 +1,11 @@
+.bg-pink {
+  background-color: #f8c8d9 !important; /* Light Pink */
+}
+
+.table-pink th {
+  background-color: #f1a7c2 !important; /* Soft Pink for table header */
+}
+
+.text-pink {
+  color: #f28ab2 !important; /* Pink for buttons or links */
+}

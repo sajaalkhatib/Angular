@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "knrPU8rZi5lTUDtE8Rf8kNy0Dvij/jjE3Sjv+5qXx2Q=",
+  "Source": "task6.Server",
+  "BasePath": "_content/task6.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Orange\\source\\repos\\task6\\task6.client\\task6.client.esproj",
+      "Version": 2,
+      "Source": "task6.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

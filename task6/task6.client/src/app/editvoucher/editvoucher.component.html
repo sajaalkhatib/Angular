@@ -1,0 +1,32 @@
+<p>edit-voucher works!</p>
+<form #update="ngForm" (ngSubmit)="updateVoucher(update.value)" class="container mt-5">
+  <div class="row">
+    <div class="col-md-6 offset-md-3">
+      <div class="card p-4 shadow-sm" style="border-radius: 15px; background-color: #f7e0e9;">
+        <h3 class="text-center mb-4" style="color: #ff6f91;">Edit Voucher</h3>
+
+        <div class="mb-3">
+          <label for="voucherId" class="form-label" style="color: #ff6f91;">Voucher ID</label>
+          <input type="text" class="form-control" id="voucherId" name="id" ngModel required style="border-radius: 10px; border-color: #ff6f91;">
+        </div>
+
+        <div class="mb-3">
+          <label for="voucherName" class="form-label" style="color: #ff6f91;">Voucher Name</label>
+          <input type="text" class="form-control" id="voucherName" name="name" ngModel required style="border-radius: 10px; border-color: #ff6f91;">
+        </div>
+
+        <div class="mb-3">
+          <label for="voucherPrice" class="form-label" style="color: #ff6f91;">Price</label>
+          <input type="number" class="form-control" id="voucherPrice" name="price" ngModel required style="border-radius: 10px; border-color: #ff6f91;">
+        </div>
+
+        <div class="mb-3">
+          <label for="voucherQuantity" class="form-label" style="color: #ff6f91;">Quantity</label>
+          <input type="number" class="form-control" id="voucherQuantity" name="quantity" ngModel required style="border-radius: 10px; border-color: #ff6f91;">
+        </div>
+
+        <button type="submit" class="btn btn-success w-100 mt-3" style="border-radius: 10px;">Submit</button>
+      </div>
+    </div>
+  </div>
+</form>

@@ -1,0 +1,32 @@
+/* Add a soft pink background color for the form card */
+.card {
+  background-color: #f7e0e9;
+}
+
+/* Modify form labels for a soft, feminine look */
+.form-label {
+  color: #ff6f91;
+  font-weight: bold;
+  font-family: 'Arial', sans-serif;
+}
+
+/* Rounded input fields */
+.form-control {
+  border-radius: 10px;
+  border-color: #ff6f91;
+  padding: 10px;
+}
+
+/* Change button color to a soft green with rounded corners */
+.btn-success {
+  background-color: #ff6f91;
+  border-color: #ff6f91;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+/* Adjust the header to a soft pink color */
+h3 {
+  color: #ff6f91;
+  font-family: 'Arial', sans-serif;
+}

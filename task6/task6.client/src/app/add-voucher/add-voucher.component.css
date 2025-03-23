@@ -1,0 +1,32 @@
+/* Add a soft pastel pink background for the form card */
+.card {
+  background-color: #fbe2e8; /* Light pink background */
+}
+
+/* Modify form labels to be soft and feminine */
+.form-label {
+  color: #ff6f91; /* Soft pink text color */
+  font-weight: bold;
+  font-family: 'Arial', sans-serif;
+}
+
+/* Rounded input fields with soft pink border */
+.form-control {
+  border-radius: 10px;
+  border-color: #ff6f91;
+  padding: 10px;
+}
+
+/* Style the submit button with a rounded pink design */
+.btn-success {
+  background-color: #ff6f91;
+  border-color: #ff6f91;
+  border-radius: 10px;
+  padding: 12px;
+}
+
+/* Header with a soft pink color */
+h3 {
+  color: #ff6f91;
+  font-family: 'Arial', sans-serif;
+}
